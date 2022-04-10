@@ -13,6 +13,7 @@ func main() {
 	config.Carregar()
 
 	fmt.Println("Runing API!")
+	fmt.Println(config.SecretKey)
 
 	r := router.Gerar()
 
