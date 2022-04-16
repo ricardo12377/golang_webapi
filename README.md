@@ -5,4 +5,4 @@
 
 <h3>Description</h3>
 
-<em>A real rest api created with golang and any natives packages</em>
+<em>A real rest api created with golang and any natives packages and JWT authentication.</em>
